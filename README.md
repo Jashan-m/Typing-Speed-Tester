@@ -8,16 +8,6 @@ The **Typing Speed Tester** is a web-based application designed to help users me
 - **Progress Tracking**: View your past performances to monitor improvement over time.
 - **Responsive Design**: Fully functional on both desktop and mobile devices.
 - **User-Friendly Interface**: Simple and clean interface for a distraction-free typing experience.
-## Installation
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/<your-username>/typing-speed-tester.git
-   ```
-2. **Navigate to the project directory**:
-   ```sh
-   cd typing-speed-tester
-   ```
-3. **Open the `index.html` file** in your preferred web browser.
 ## Usage
 1. Open the application in your web browser.
 2. Select a text source (random words, preset text, or custom text).
